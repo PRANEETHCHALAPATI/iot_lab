@@ -1,3 +1,6 @@
+# For dht,(Ada fruit) . After typing code save the code in home/project and open terminal , type Exam/source/bin/activate Now Virtual Environment (Exam) will be activated. Then execute the command: python3 filename.py 
+# Thus, output will be shown in the terminal.
+
 import time
 import adafruit_dht
 import board

@@ -1,3 +1,5 @@
+# In Picamera experiment, (Enter the no.  of pictures to take) start_and_capture_file() is not working ( Non contiguous C error is coming) , so first use picam.start() and then use picam.capture_file() which works fine
+
 from picamera2 import Picamera2, Preview
 from time import sleep
 from libcamera import Transform
